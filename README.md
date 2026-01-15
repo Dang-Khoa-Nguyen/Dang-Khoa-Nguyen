@@ -2,9 +2,9 @@
 Welcome to my Github profile! I'm a Software Engineering at Adelaide University passionate about creating web applications that solve real-world problems and exploring the world of machine learning. My journey began with learning Python and HTML/CSS, which helped me build strong logic and turn creative ideas into functional, real-life applications through code.
 
 ## 🛠️ Tech stack
-**Languages & Frameworks**: React, Next.js, Python (flask), JavaScript, Java, C# (.NET), TypeScript
-**Databases & Backend**: MySQL, Supabase
-**AI / ML**: Google GenAI
+- **Languages & Frameworks**: React, Next.js, Python (flask), JavaScript, Java, C# (.NET), TypeScript
+- **Databases & Backend**: MySQL, Supabase
+- **AI / ML**: Google GenAI
 
 ## 🌱 Projects
 1. PawPals – A web application designed to help users find lost pets and reconnect them with their owners.
