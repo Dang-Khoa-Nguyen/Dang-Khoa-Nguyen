@@ -2,8 +2,9 @@
 Welcome to my Github profile! I'm a Software Engineering student at Adelaide University passionate about creating web applications that solve real-world problems and exploring the world of machine learning. My journey began with learning Python and HTML/CSS, which helped me build strong logic and turn creative ideas into functional, real-life applications through code.
 
 ## 🛠️ Tech stack
-- **Languages & Frameworks**: React, Next.js, Python (flask), JavaScript, Java, C# (.NET), TypeScript
-- **Databases & Backend**: MySQL, Supabase
+- **Languages**:JavaScript, TypeScript, Python, Java, C#
+- **Frameworks**: React, Next.js, flask, .NET.
+- **Databases**: MySQL, Supabase
 - **AI / ML**: Google GenAI
 
 ## 🌱 Projects
@@ -17,3 +18,4 @@ I’m currently deepening my skills in Next.js and TypeScript to build scalable 
 ## 🔗 Let's Connect!
 - **LinkedIn:**[https://www.linkedin.com/in/khoadangnguyen2005/](https://www.linkedin.com/in/khoadangnguyen2005/)
 - **Email:** [dangkhoa04052005@gmail.com](dangkhoa04052005@gmail.com)
+- **Portfolio website**: [kevinnguyen.vercel.app](https://kevin-portfolio-plum-one.vercel.app/)
