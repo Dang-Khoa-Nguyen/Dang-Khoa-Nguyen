@@ -6,7 +6,7 @@ Welcome to my Github profile! I'm a Software Engineering student at Adelaide Uni
 [![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen)]()
 [![Python](https://img.shields.io/badge/Python-purple)]()
 [![Java](https://img.shields.io/badge/Java-yellow)]()
-[![C#](https://img.shields.io/badge/C(#)-blue)]()
+[![C#](https://img.shields.io/badge/C%23-blue)]()
 - **Frameworks**:
 [![React](https://img.shields.io/badge/React-red)]()
 [![Next.js](https://img.shields.io/badge/NextJS-darkblue)]()
