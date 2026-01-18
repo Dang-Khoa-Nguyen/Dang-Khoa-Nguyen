@@ -2,7 +2,11 @@
 Welcome to my Github profile! I'm a Software Engineering student at Adelaide University passionate about creating web applications that solve real-world problems and exploring the world of machine learning. My journey began with learning Python and HTML/CSS, which helped me build strong logic and turn creative ideas into functional, real-life applications through code.
 
 ## 🛠️ Tech stack
-- **Languages**:[![JavaScript](https://img.shields.io/badge/JavaScript-darkblue)](), TypeScript, Python, Java, C#
+- **Languages**:[![JavaScript](https://img.shields.io/badge/JavaScript-darkblue)]()
+[![JavaScript](https://img.shields.io/badge/TypeScript-darkblue)]()
+[![JavaScript](https://img.shields.io/badge/Python-darkblue)]()
+[![JavaScript](https://img.shields.io/badge/Java-darkblue)]()
+[![JavaScript](https://img.shields.io/badge/C#-darkblue)]()
 - **Frameworks**: React, Next.js, flask, .NET.
 - **Databases**: MySQL, Supabase
 - **AI / ML**: Google GenAI
