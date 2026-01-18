@@ -3,21 +3,21 @@ Welcome to my Github profile! I'm a Software Engineering student at Adelaide Uni
 
 ## 🛠️ Tech stack
 - **Languages**:[![JavaScript](https://img.shields.io/badge/JavaScript-darkblue)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-darkblue)]()
-[![Python](https://img.shields.io/badge/Python-darkblue)]()
-[![Java](https://img.shields.io/badge/Java-darkblue)]()
-[![C#](https://img.shields.io/badge/C-darkblue)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen)]()
+[![Python](https://img.shields.io/badge/Python-purple)]()
+[![Java](https://img.shields.io/badge/Java-yellow)]()
+[![C#](https://img.shields.io/badge/C(#)-blue)]()
 - **Frameworks**:
-[![React](https://img.shields.io/badge/React-darkblue)]()
+[![React](https://img.shields.io/badge/React-red)]()
 [![Next.js](https://img.shields.io/badge/NextJS-darkblue)]()
-[![flask](https://img.shields.io/badge/flask-darkblue)]()
-[![pandas](https://img.shields.io/badge/pandas-darkblue)]()
-[![.NET](https://img.shields.io/badge/.NET-darkblue)]()
+[![flask](https://img.shields.io/badge/flask-yellow)]()
+[![pandas](https://img.shields.io/badge/pandas-green)]()
+[![.NET](https://img.shields.io/badge/.NET-blue)]()
 - **Databases**:
-[![MySQL](https://img.shields.io/badge/MySQL-darkblue)]()
+[![MySQL](https://img.shields.io/badge/MySQL-purple)]()
 [![Supabase](https://img.shields.io/badge/Supabase-darkblue)]()
 - **AI / ML**:
-[![Google GenAI](https://img.shields.io/badge/GoogleGenAI-darkblue)]()
+[![Google GenAI](https://img.shields.io/badge/GoogleGenAI-red)]()
 
 ## 🌱 Projects
 1. PawPals – A web application designed to help users find lost pets and reconnect them with their owners.
